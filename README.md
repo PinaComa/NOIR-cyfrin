@@ -298,4 +298,4 @@ After mastering the basics covered in this guide, consider exploring:
 4. **Complex ZK applications** like private voting or confidential transactions
 
 ---
-by Gemini :) 
+by Gemini :)
