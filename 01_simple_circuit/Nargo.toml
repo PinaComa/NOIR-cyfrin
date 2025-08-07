@@ -1,0 +1,7 @@
+[package]
+name = "simple_circuit"
+type = "bin"
+authors = ["PinaCoDC"]
+
+[dependencies]
+#ecrecover = { tag = "v0.8.0", git = "https://github.com/colinnielsen/ecrecover-noir" } 
