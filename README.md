@@ -5,16 +5,14 @@ This repository contains a collection of zero-knowledge (zk) applications and ci
 Explore each project below:
 
 ---
-
 ## 🔗 Project Index
 
 ### [01_simple_circuit](./01_simple_circuit)
-
-A basic Noir circuit example demonstrating simple zk logic and constraints.
+A basic Noir circuit demonstrating simple constraints and logic.
 
 ### [02_zk_ecdsa](./02_zk_ecdsa)
-
-A zk contract that verifies ECDSA signatures using Noir. Includes implementation and test cases.
+Zero-Knowledge proof system for verifying ECDSA signatures using Noir.  
+Proves ownership of an Ethereum address without revealing the signature or private key.
 
 ---
 
